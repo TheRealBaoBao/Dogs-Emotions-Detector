@@ -1,1 +1,1 @@
-# Pets-Emotions-Detector
+# Dogs-Emotions-Detector
